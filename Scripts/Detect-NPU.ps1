@@ -1,0 +1,1 @@
+Get-PnpDevice -Class System | Select-String -Pattern "npu ai" -AllMatches
